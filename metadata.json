@@ -1,0 +1,8 @@
+{
+  "name": "AstroPoornima - Vedic Astrology & Kundli Portal",
+  "description": "Comprehensive Vedic astrology platform featuring interactive Kundli charts, matchmaking, horoscope reports, booking & payment management, and complete administrative control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
